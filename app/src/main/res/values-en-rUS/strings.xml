@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genero_hombre">Men</string>
+    <string name="genero_mujer">Woman</string>
+    <string name="app_name">Exercice2</string>
+    <string name="texto_apellido">and his surname is:</string>
+    <string name="texto_nombre">The Student is:</string>
+    <string name="letrero_princ">--Welcome--</string>
+    <string name="nombre">Name</string>
+    <string name="letrero_genero">Gender</string>
+    <string name="letrero_apellidos1">Surnames:</string>
+    <string name="boton_env">Send</string>
+    <string name="boton_limp">Clean</string>
+    <string name="boton_vista">List View</string>
+    <string name="letrero_alumno">Student:</string>
+    <string name="letrero_apellidos">Surnames:</string>
+    <string name="letrero_cuenta">Account number:</string>
+    <string name="letrero_genero2">Gender:</string>
+    <string name="letrero_enviar">Save</string>
+    <string name="letrero_limpiar">Clean</string>
+    <string name="letrero_verlista">List View</string>
+
+</resources>

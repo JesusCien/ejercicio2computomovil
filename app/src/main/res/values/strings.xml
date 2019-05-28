@@ -1,0 +1,23 @@
+<resources>
+    <string name="texto_apellido">" y su apellido es: "</string>
+    <string name="genero_hombre">Hombre</string>
+    <string name="genero_mujer">Mujer</string>
+    <string name="letrero_princ">--Bienvenid@s--</string>
+    <string name="nombre">Nombre</string>
+    <string name="letrero_genero">Genero</string>
+    <string name="letrero_apellidos1">Apellidos:</string>
+    <string name="boton_env">Enviar</string>
+    <string name="boton_limp">Limpiar</string>
+    <string name="boton_vista">Ver lista</string>
+    <string name="letrero_alumno">Alumno:</string>
+    <string name="letrero_cuenta">Numero de cuenta:</string>
+    <string name="letrero_genero2">Genero:</string>
+    <string name="app_name">Ejercicio2</string>
+    <string name="texto_nombre">El alumno es:</string>
+    <string name="letrero_apellidos">Apellidos:</string>
+    <string name="letrero_enviar">Guardado</string>
+    <string name="letrero_limpiar">Limpiar</string>
+    <string name="letrero_verlista">Ver Lista</string>
+
+
+</resources>
